@@ -1,9 +1,9 @@
 ![image](https://github.com/user-attachments/assets/23cda1f6-2dc6-42dd-9878-2b889c6e291e)
 rexon_metals.db
-https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/thomasnield/oreilly_sql_fundamentals_for_data/master/databases/rexon_metals.db
+https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/vkku/SQL/master/database/rexon_metals.db
 
 weather_stations.db
-https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/thomasnield/oreilly_sql_fundamentals_for_data/master/databases/weather_stations.db
+https://sqliteonline.com/#urldb=sqliteonline.com/#urldb=https://raw.githubusercontent.com/vkku/SQL/master/database/weather_stations.db
 
 > Use HAVING on aggregated fields as MAX()
 ```
