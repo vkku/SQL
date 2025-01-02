@@ -3,7 +3,7 @@ rexon_metals.db
 https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/vkku/SQL/master/database/rexon_metals.db
 
 weather_stations.db
-https://sqliteonline.com/#urldb=sqliteonline.com/#urldb=https://raw.githubusercontent.com/vkku/SQL/master/database/weather_stations.db
+https://sqliteonline.com/#urldb=https://raw.githubusercontent.com/vkku/SQL/master/database/weather_stations.db
 
 > Use HAVING on aggregated fields as MAX()
 ```
